@@ -1,0 +1,81 @@
+originalarbeiten 
+Ecodesign- design and evaluation of an e-learning system for vocational training 
+M. POHL, M. RESTER, P. JUDMAIER, K. STOCKELMAYR 
+At Vienna University of Technology an online course in sustainable product design has been developed. The aim of this course is to offer vocational training for professionals in product design. The interface of the e-learning system is easy to understand. The whole system is adapted to the needs of the target group. Communication and cooperation play an important role for the e-learning system. Extensive evaluation is supposed to ensure the effectivity of the system, 
+
+Keywords: collaborative learning; vocational training; life-long learning; evaluation of e-learning systems 
+Ecodesign -Design und Evaluierung eines E.Learning.Systems fiJr berufliche Weiterbildung. 
+An der Technischen Universit~t Wien wurde ein Online-Kurs fi3r umweltgerechte Produktgestaltung entwickelt, tier auf Weiterbildung yon Personen abzielt, die im Bereich Produktdesign beruflich t~tig sind. Die Oberfl~che dieses E-Learning-Systems ist leicht zu erfassen, das ganze System ist an den Bedi3rfnissen der Zielgruppe ausgerichtet. In diesem E-Learning-System sind vor allem Kommunikation und gemeinsames Arbeiten yon groBer Bedeutung. Das System wird genauestens evaluiert, um die EffeMivit~it des Tools sicher zu stellen. 
+SchliJsselw~rter: E-Learning; Aus- und Weiterbildung; lebenslanges Lernen; Evaluierung eines E- Learning-Systems 
+1. Introduction 
+
+A common argument which can be found in the literature again and again is that lifelong learning and vocational training are be- coming increasingly important (see e.g. (Rudestam, Schoen- ho/tz-Read, 2002, Jarvis, Holford, Griffin, 2003)). An area for which this argument is definitely valid is ecology, especially be- cause this topic still receives too little attention in traditional uni- versity curricula. At the Vienna University of Technology vocatio- nal training courses in this area have been offered for several years, especially in Ecological Product Design (Wimmer, ZOst, 2001). These courses were held as normal lectures. One of the problems of these courses was that participants not coming from Vienna had difficulties toattend. Therefore, we developed the concept of an online course with a restricted amount of face- to-face teaching. 
+Distance education is often seen to have special advan- tages for adult learning (see e.g. (Jarvis, Holford, Griffin, 2003)). Working adults and mothers of little children are frequently un- able to attend vocational training courses held in the form of face-to-face lectures. Distance education is a possibility to offer education to these people. Nevertheless, it is necessary to adapt these courses to the needs of adult learners. In this con- text, a problem-based approach and the consideration of the professional experience of the learners are important (Rudes-tam, Schoenholtz-Read, 2002). In addition, the motivation of adult learners in continuing education is usually higher than that of the younger university students (Jarvis, Holford, Griffin, 2003). These considerations suggest the adoption of constructi- vist approaches for the design of e-learning systems. Further- more, we think that it is important to support the empathy bet- ween teachers and learners and to assist the learners in a com- prehensive manner to avoid the high drop-out ratio typical for distance education (Holmberg, 2001). 
+In the following paper, we describe the concept of the Eco- design e-learning course. To ensure the efficiency of this system we also conducted a comprehensive evaluation of the whole course. At every step in the development process specific eva- luation methods were adopted. The results from the usability tests of the first prototype of the system are described el-sewhere (Pohl, Rester, 2004). The work described in this paper rather analyzes whether the main ideas behind the Ecodesign e-learning system are adapted to the needs of the target group or no~ An important point in this context was how to design electronic communication and cooperation for adult learners with little computer literacy (as is the case in our target group). 
+
+
+2. Description of the system 
+An important aspect of the didactic approach underlying the Ecodesign e-learning system is the usage of a metaphor. A me- taphor can make learning easier by relating to well-known situa- tions. It can also help to provide a meaningful context for the material presented in the system (see e.g. (Preece, Rogers, Sharp, 2002, Schulmeister, 1997)). 
+We chose an office as a metaphor. The single tasks are lo- cated in individual rooms. The function of these rooms is some- how related to the task it represents. In this way we ensured the consistency of the metaphor (see e.g. (Schulmeister, 1997, Niel- sen, 2000)). Based on the usability tests we chose the following 
+POHL, Margit, Ao. Univ.-Prof. Mag. Dr., RESTER, Markus, Dipl.- 
+Ing., ST()CKELMAYR, Kerstin, Institute of Design and Assess- 
+ment of Technology, Vienna University of Technology, Favoriten- 
+straBe 9-11/187, 1040 Vienna, Austria; JUDMAIER, Peter, Dipl.- 
+Ing., Institute of Engineering Design and Logistics Engineering, 
+Vienna University of Technology, Getreidemarkt 9/307, 1060 
+Vienna, Austria (e-mail: margit@igw.tuwien.ac.at) 
+e&i heft 12 Dezember 2005 / 122. Jahrgang 
+
+
+
+M. POHL, M. RESTER, R JUDMAIER, K. STGCKELMAYR Ecodesign -design and evaluation of an e-learning system for vocational training 
+Table 1. Usage of various navigational practices by 11 users. Navigation bar (NAV), tree (TR), 
+breadcrumbs (BC), link within text (TXT), sitemap (SM), view posting (VP), office to library (O2L), 
+
+PDF download (PDF). See Fig. 2 for categories 
+SUM  NAV  TR  BC  TXT  SM  
+Min  956  84  437  0  72  1  
+Max  3352  289  2262  482  883  479  
+Avg %  1711.6 100.0  180.8 10.6  897.7 52.4  47.0 2.7  303.5 17.7  47.8 2.8  
+
+number of clicks in this category and the percentage across all users. The values in the min- and max-lines do not necessarily come from one single user. 
+These data also show that the tree navigation was most po- pular among users. It is probably so attractive because all users are well acquainted with this form of navigation and it can be used easily because it is always visible on the screen (in con- trast to the sitemap which has to be accessed specifically). The other methods of navigation were only used rarely. The average number of clicks for breadcrumbs (47.0) is due to one single user who used this form of navigation 482 times. The other users only adopted this form of navigation between 0 and 11 ti- mes. The same user also used the sitemap comparatively often. He clicked 479 times on the sitemap to access single pages. 
+6. Conclusion 
+In principle, the participants found the Ecodesign e-learning course very interesting and engaging. There are probably seve- ral reasons for this. We tried to develop a very simple and usa- ble system. Apparently, the users appreciated this. In addition, the contents of the course is seen as relevant for the work practice of the participants. Another factor is presumably also the example-oriented character of the system which allows for a more autonomous learning process than ordinary in vocational training. 
+There are, of course, single features of the system which were criticized but the system as a whole and especially the systemic and holistic approach was approved. Most of the parti- cipants worked through the material in the office section in a li- near manner and, as a consequence, only used the navigational tree. A hypertextual organization of the material did not make very much sense for them. They see a fundamental difference between the office section of the Ecodesign e-learning system and the WWW in that they have to learn every page for Ecode- sign but only search for specific pages in the WWW. The hyper- textual organization of the system only makes sense during the solution of the examples for searchingfor specific domains with- in the dossiers. 
+Computer-mediated communication (CMC) played an im-portant role in the Ecodesign course. The attitudes towards the various forms of CMC varied widely. Chat was criticized heavily. This might also be due to the fact that no participant had any previous experience with chat (low computer literacy). The dis- cussion forum was seen as a preferable form of communication although it is an open question how this forum should be organi- zed to ensure continuous participation of all learners. Because of the high workload of the learners a rigid schedule for electro- nic communication might be necessary also in a discussion fo- rum. 
+The participants all found that the online tutor was extremely helpful and very important for their work. The fact that all partici- pants finished the course successfully is probably due to the concept of active tutoring. 
+
+VP  O2L  PDF  
+63 191 102.0 6.0  12 112 33.6 2.0  37 293 99.2 5.8  
+
+
+Acknowledgements 
+Special thanks to Stephan Sykacek who gave valuable input for 
+unraveling the Iogfiles. The project "eLearning Kurs zu umweltgerechter Produktge- staltung / ECODESIGN" is financed by the European Social Fund (esf) and the Austrian Ministry for Education, Science and Culture. 
+
+References 
+Clark, R. C., Mayer, R. E. (2003): e-learning and the science of instruc- tion. San Francisco: Pfeiffer. 
+Dalsgaard, C. (2005): Pedagogical quality in e-learning. Designing e- learning from a learning theoretical approach. In: e-learning and education, Issue 1, February 2005. 
+Holmberg, B. (2001): Distance education in essence. Oldenburg:
+Bibliotheks- und Informationssystem der Universit~t Oldenburg. 
+Jarvis, P., Holford, J., Griffin, C. (2003): The theory & practice of lear- 
+
+ning. Second ed., London, Sterling: Kogan Page. 
+Lawless, N., Allan, J. (2004): Understanding and reducing stress in col- laborative e-learning. In: Electronic Journal of e-Learning, Vol. 2, Issue 1. 
+Lowyck, J. (2002): Pedagogical design. In: Adelsberger, H. H., Collis, B., Pawlowski, J. M. (eds.): Handbook on information technologies for education and training. Berlin, Heidelberg, New York: Springer: 199-217. 
+McPherson, M., Nunes, M. B. (2004): The role of tutors as an integral part of online learning support. In: EURODL -European Journal of Open, Distance and E-Learning. Issue 2004/I. 
+Nielsen, J. (2000): Erfolg des Einfachen. M~nchen: Markt+Technik. Pohi, M (2004): Guidelines for e-learning - advantages and disadvan- tages. In: Proc. of the ED-MEDIA 2004: 4827-4830. 
+Pohl, M., Rester, M. (2004): Ecodesign: development and testing of an e-learning system. In: Auer, M., Auer, U. (eds.): ICL: Interactive Computer Aided Learning. Proc. of the Int. Conf. Kassel: kassel university press. 
+Preece, J., Rogers, I., Sharp, H. (2002): Interaction design. New York: John Wiley & Sons. 
+Rudestam, K. E., Schoenholtz-Read, J. (2002): Overview- the coming of age of adult education. In: K. E. Rudestam, J. Schoenholtz- Read (eds.): Handbook of online learning. Thousand Oaks, Lon- don, New Delhi: Sage Publications: 3-28. 
+Reichl, F., Vierlinger, U. (2003): Tutor-enhanced e-learning for univer- sity based continuing education. In: Proc. of the ED-MEDIA 2003: 1633-1640. 
+Schulmeister, R. (1997): Grundlagen hypermedialer Lernsysteme. M(~nchen: R. Oldenburg. Schulmeister, R. (2001): Virtuelle Universit~_t- Virtuelles Lernen, Mi3n- chen: R. Oldenburg. 
+Wimmer, W., Zest, R. (2001): ECODESIGN PILOT: Produkt-lnnovati- ons-, Lern- und Optimierungstool fi3r umweltgerechte Produktge- staltung mit deutsch/eng[ischer CD-ROM. Z0rich, CH: Verlag Industrielle Organisation. • 
+e&i elektrotechnik und informationstechnik 
+
+
+
+
+
+
